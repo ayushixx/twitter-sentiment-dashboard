@@ -1,6 +1,6 @@
 # Twitter Sentiment Studio 
 # Real-Time Mood Analytics  |  R Shiny + syuzhet NLP 
-# Chandigarh University – Mini Project 2024-25 
+# Chandigarh University – Mini Project 
   
 ## Project Structure 
   twitter-sentiment-studio/ 
