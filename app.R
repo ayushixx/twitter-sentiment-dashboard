@@ -1,7 +1,6 @@
-# ============================================
+
 # REAL-TIME SENTIMENT DASHBOARD
-# SIMPLE WORKING VERSION - NO ERRORS
-# ============================================
+
 
 library(shiny)
 library(shinyjs)
